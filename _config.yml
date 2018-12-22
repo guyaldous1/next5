@@ -17,8 +17,6 @@ name: Next5
 title: Next5
 url: https://next5.melbourne
 baseurl: /
-plugins:
-  - jekyll-redirect-from
 defaults:
   -
     scope:
