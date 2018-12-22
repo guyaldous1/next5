@@ -4,8 +4,10 @@ $lgreen: lightgreen;
 
 btn{
   padding: 15px;
+  margin: 15px 0;
   background-color: $lgreen;
   color: white;
   border-radius: 15px;
   border:1px solid $green;
+  display: inline-block;
 }
