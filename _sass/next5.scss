@@ -1,0 +1,11 @@
+//Colours
+$green: green ;
+$lgreen: lightgreen;
+
+btn{
+  padding: 15px;
+  background-color: $lgreen;
+  color: white;
+  border-radius: 15px;
+  border:1px solid $green;
+}
