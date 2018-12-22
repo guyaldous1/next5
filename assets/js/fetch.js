@@ -1,5 +1,5 @@
 const testUrl = "https://ghibliapi.herokuapp.com/films";
-const baseUrl = "http://timetableapi.ptv.vic.gov.au";
+const baseUrl = "https://timetableapi.ptv.vic.gov.au";
 const actualUrl = baseUrl + "/v3/stops/location/-37.751500,144.976310?route_types=0&route_types=1&max_distance=2000&devid=3000962&signature=BD1F3AA5272C03C901470822A6B10F54AA96CBC7";
 
 //dataset
